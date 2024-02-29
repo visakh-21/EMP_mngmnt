@@ -1,0 +1,15 @@
+p{
+
+    text-align: center;
+    padding: 40px;
+}
+
+p:hover{
+
+    color: rgb(233, 193, 193);
+}
+
+.heading{
+
+    color: rgb(10, 10, 10);
+}
